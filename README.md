@@ -2,6 +2,7 @@
 <p align="center">Repo to learn python with Django Rest Framework</p>
 
 ## Libs
+- Python
 - Django
 - Django Rest Framework
 
